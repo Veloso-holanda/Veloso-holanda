@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Hi there, I'am Gabriel! 👋
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/gabriel-veloso-dev/)
-[![wakatime](https://wakatime.com/badge/user/afc34c3a-f4b9-42ef-a9e5-986855fc03ef.svg?style=for-the-badge)](https://wakatime.com/@afc34c3a-f4b9-42ef-a9e5-986855fc03ef)
+
 
 🎓 Estudante de Engenharia de Software pela UNINTER, atualmente me aprofundando em desenvolvimento web com Python e Django. Estou construindo meu portfólio com projetos práticos, incluindo sistemas de autenticação, APIs e aplicações completas com Django.
 
